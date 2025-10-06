@@ -2,7 +2,7 @@
 using namespace std;
 
 //
-// CALL BY VALUE
+// PASS BY VALUE
 // void swap(double a, double b)
 // {
 // 	double temp;
